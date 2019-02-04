@@ -1,13 +1,4 @@
-/*.App {
-  min-height: 100vh;
-  background-color: #ddd;
-  text-align: center;
-}*/
-
-@import url('https://fonts.googleapis.com/css?family=Poiret+One');
 body {
-    background-image: url('https://images.unsplash.com/photo-1508794092848-50ecd51b8948?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b252f8845052fac54885ea424ec1be82&auto=format&fit=crop&w=1050&q=80');
-    background-size: cover;
-    font-family: 'Poiret One', cursive;
+    background-color: #ddd;
     font-size: 30px;
 }
